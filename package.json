@@ -1,0 +1,31 @@
+{
+  "name": "flutter-essentials",
+  "displayName": "Extension pack for Flutter",
+  "description": "Essential extensions for Flutter developers",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "BendixMa.dart-data-class-generator", 
+    "Dart-Code.dart-code", 
+    "Dart-Code.flutter", 
+    "esbenp.prettier-vscode", 
+    "FelixAngelov.bloc",
+    "flutterando.flutter-coverage", 
+    "jeroen-meijer.pubspec-assist", 
+    "k--kato.intellij-idea-keybindings", 
+    "luanpotter.dart-import",
+    "Nash.awesome-flutter-snippets", 
+    "PeterSchmalfeldt.explorer-exclude",
+    "pflannery.vscode-versionlens", 
+    "plibither8.remove-comments", 
+    "redhat.vscode-yaml", 
+    "robert-brunhage.flutter-riverpod-snippets", 
+    "SergeLamikhov.lcov-lang", 
+    "usernamehw.errorlens"
+  ]
+}
