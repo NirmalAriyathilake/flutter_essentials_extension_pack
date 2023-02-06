@@ -2,7 +2,7 @@
   "name": "flutter-essentials",
   "displayName": "Flutter essential extension pack",
   "description": "Essential extensions for Flutter dev with VSCode",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/NirmalAriyathilake/flutter_essentials_extension_pack"
