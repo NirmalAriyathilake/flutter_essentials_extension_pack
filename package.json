@@ -1,6 +1,6 @@
 {
   "name": "flutter-essentials",
-  "displayName": "Flutter extension pack",
+  "displayName": "Flutter essential extension pack",
   "description": "Essential extensions for Flutter dev with VSCode",
   "version": "0.2.0",
   "repository": {
