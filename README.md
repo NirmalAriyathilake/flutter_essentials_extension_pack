@@ -28,7 +28,7 @@ VSCode extension pack for Flutter
 
 ### Common
 
-- [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens) - .
+- [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens) - Improve highlighting of errors, warnings and other language diagnostics.
 
 - [Explorer Exclude](https://marketplace.visualstudio.com/items?itemName=PeterSchmalfeldt.explorer-exclude) - Explorer Exclude lets you easily Hide Files & Folders with Dynamic Filter Options. Add a New 'Hidden Items' Explorer Pane for you to Manage and Quickly Toggle Visibility of Hidden Items.
 
