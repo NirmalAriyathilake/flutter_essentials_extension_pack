@@ -1,8 +1,19 @@
 {
   "name": "flutter-essentials",
-  "displayName": "Extension pack for Flutter",
-  "description": "Essential extensions for Flutter developers",
-  "version": "0.0.1",
+  "displayName": "Flutter extension pack",
+  "description": "Essential extensions for Flutter dev with VSCode",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NirmalAriyathilake/flutter_essentials_extension_pack"
+  },
+  "publisher": "NirmalCode",
+  "icon": "logo.png",
+  "keywords": [
+    "Flutter",
+    "Dart",
+    "Essential"
+  ],
   "engines": {
     "vscode": "^1.75.0"
   },
@@ -15,7 +26,6 @@
     "Dart-Code.flutter", 
     "esbenp.prettier-vscode", 
     "FelixAngelov.bloc",
-    "flutterando.flutter-coverage", 
     "jeroen-meijer.pubspec-assist", 
     "k--kato.intellij-idea-keybindings", 
     "luanpotter.dart-import",
@@ -25,7 +35,6 @@
     "plibither8.remove-comments", 
     "redhat.vscode-yaml", 
     "robert-brunhage.flutter-riverpod-snippets", 
-    "SergeLamikhov.lcov-lang", 
     "usernamehw.errorlens"
   ]
 }
